@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">Default.Personality</Option>
+			<Option Name="ProjectType"></Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{4638B1B8-8774-4F45-A5D4-B4A5E5637068}</Option>
+		</Option>
+	</PersonalityInfo>
+	<Default.Personality>  
+    
+    
+    
+    <Projects>
+      <Projects Name="JanssonTests.exe">test\JanssonTests.bdsproj</Projects>
+      <Projects Name="simple_parse.exe">examples\simple_parse\simple_parse.bdsproj</Projects>
+      <Projects Name="Targets">JanssonTests.exe simple_parse.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>  <StarTeamAssociation></StarTeamAssociation>
+  <StarTeamNonRelativeFiles></StarTeamNonRelativeFiles>
+</BorlandProject>
