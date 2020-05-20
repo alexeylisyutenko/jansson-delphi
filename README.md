@@ -113,4 +113,4 @@ end;
 
 Jansson is released under the MIT license. (LICENSE.C.txt)
 
-Jansson-Delphi is released under the MIT license. (LICENSE.DELPHI.txt)
+Jansson-Delphi is released under the MIT license. (LICENSE.txt)
